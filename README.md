@@ -14,7 +14,7 @@ Components:
         DO/IN -  GPIO 18 ,
         VCC- 5V ,
         GND- GND .
-     
+    
     2.Relay 
         IN - GPIO 23 ,
         VCC- 5V ,
